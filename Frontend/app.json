@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "E-React",
+    "description": "This project is really great.",
+    "slug": "E-React",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId": "240536953465222",
+    "facebookScheme": "fb240536953465222",
+    "facebookDisplayName": "e-react",
+    "android": {
+      "package": "com.test.ereact",
+      "versionCode": 1
+    },
+    "extra": {
+      "googleAppId": {
+        "ios": "245652154526-oou2jue8h33tm1k637uggto26oajhqb9.apps.googleusercontent.com",
+        "android": "245652154526-21v6mnn51njrfisboec0u21v9jrfmmnh.apps.googleusercontent.com"
+      }
+    }
+  }
+}
